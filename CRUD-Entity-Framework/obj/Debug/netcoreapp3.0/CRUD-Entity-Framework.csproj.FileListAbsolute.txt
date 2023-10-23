@@ -69,3 +69,5 @@ D:\Projects\CRUD-Entity-Framework\CRUD-Entity-Framework\obj\Debug\netcoreapp3.0\
 D:\Projects\CRUD-Entity-Framework\CRUD-Entity-Framework\obj\Debug\netcoreapp3.0\CRUD-Entity-Framework.Views.pdb
 D:\Projects\CRUD-Entity-Framework\CRUD-Entity-Framework\obj\Debug\netcoreapp3.0\CRUD-Entity-Framework.dll
 D:\Projects\CRUD-Entity-Framework\CRUD-Entity-Framework\obj\Debug\netcoreapp3.0\CRUD-Entity-Framework.pdb
+D:\Projects\CRUD-Entity-Framework\CRUD-Entity-Framework\obj\Debug\netcoreapp3.0\CRUD-Entity-Framework.csproj.CoreCompileInputs.cache
+D:\Projects\CRUD-Entity-Framework\CRUD-Entity-Framework\obj\Debug\netcoreapp3.0\CRUD-Entity-Framework.genruntimeconfig.cache
